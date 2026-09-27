@@ -1,0 +1,1 @@
+GitHub Pages ready static website. Upload all files to the repository root, then enable Settings > Pages > Deploy from branch. Pages: index.html, phone-base.html, whatsapp-number-database.html, telegram-number-database.html, specific-database.html, shop.html, blog.html.
